@@ -1,5 +1,9 @@
 # RAG Memory - Portable Context Preservation for Claude Agent Skills or Agents.md Memories
 
+![RAG Memory Demo](hero.gif)
+
+*Never forget what your building*
+
 A complete RAG (Retrieval-Augmented Generation) system that preserves your project context across Claude Code or Agent sessions.
 
 **Framework Agnostic** - Works with any tech stack. Only requires Convex for storage.
